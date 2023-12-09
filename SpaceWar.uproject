@@ -12,5 +12,11 @@
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxAArch64NoEditor",
+		"WindowsNoEditor",
+		"LinuxNoEditor"
 	]
 }
